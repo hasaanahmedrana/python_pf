@@ -1,4 +1,4 @@
 # PYTHON PROGRAMMING FUNDAMENTALS
 ---
-This repo includes all the practice problems and mini projects which i did during learning basic of python
-a
+This repository includes all the practice problems and mini projects which I
+did during learning basics of Python Programming Language.
